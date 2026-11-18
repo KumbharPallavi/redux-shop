@@ -1,0 +1,14 @@
+[
+  { "id": 1, "title": "Wireless Headphones", "price": 2499, "category": "Electronics", "rating": 4.5, "stock": 12, "emoji": "🎧", "description": "Over-ear Bluetooth headphones with active noise cancellation and 30-hour battery life." },
+  { "id": 2, "title": "Smart Watch", "price": 3999, "category": "Electronics", "rating": 4.2, "stock": 8, "emoji": "⌚", "description": "Fitness tracking, heart-rate monitor, sleep tracking and smartphone notifications." },
+  { "id": 3, "title": "Bluetooth Speaker", "price": 1799, "category": "Electronics", "rating": 4.4, "stock": 15, "emoji": "🔊", "description": "Portable waterproof speaker with deep bass and 12-hour playback." },
+  { "id": 4, "title": "Cotton T-Shirt", "price": 499, "category": "Fashion", "rating": 4.0, "stock": 40, "emoji": "👕", "description": "Breathable 100% cotton round-neck t-shirt for everyday wear." },
+  { "id": 5, "title": "Running Shoes", "price": 2199, "category": "Fashion", "rating": 4.6, "stock": 10, "emoji": "👟", "description": "Lightweight running shoes with cushioned sole and breathable mesh." },
+  { "id": 6, "title": "Denim Jacket", "price": 1899, "category": "Fashion", "rating": 4.3, "stock": 6, "emoji": "🧥", "description": "Classic blue denim jacket with a comfortable regular fit." },
+  { "id": 7, "title": "Coffee Mug", "price": 299, "category": "Home", "rating": 4.1, "stock": 50, "emoji": "☕", "description": "350 ml ceramic mug, microwave and dishwasher safe." },
+  { "id": 8, "title": "Table Lamp", "price": 899, "category": "Home", "rating": 4.2, "stock": 20, "emoji": "💡", "description": "Warm white LED desk lamp with adjustable brightness." },
+  { "id": 9, "title": "Indoor Plant", "price": 649, "category": "Home", "rating": 4.7, "stock": 18, "emoji": "🪴", "description": "Low-maintenance indoor plant in a ceramic pot, great for your desk." },
+  { "id": 10, "title": "Backpack", "price": 1299, "category": "Accessories", "rating": 4.4, "stock": 14, "emoji": "🎒", "description": "Water-resistant backpack with a padded 15.6-inch laptop sleeve." },
+  { "id": 11, "title": "Sunglasses", "price": 799, "category": "Accessories", "rating": 3.9, "stock": 25, "emoji": "🕶️", "description": "UV400-protected polarized sunglasses with a classic frame." },
+  { "id": 12, "title": "Leather Wallet", "price": 599, "category": "Accessories", "rating": 4.3, "stock": 30, "emoji": "👛", "description": "Slim genuine leather wallet with RFID protection." }
+]
